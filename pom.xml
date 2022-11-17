@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>prasad_citibank_Snapshot-Nexus-Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <url>http://43.205.143.58:3208/repository/citibank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
