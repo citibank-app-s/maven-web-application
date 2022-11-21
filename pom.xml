@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>prasad_citibank Release Nexus Repository</name>
-	      <url>http://13.234.186.81:3208/repository/citibank-Release/</url>
+	      <url>http://172.31.40.215:3208/repository/citibank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>prasad_citibank Snapshot Nexus Repository </name>
-	      <url>http://13.234.186.81:3208/repository/citibank-Snapshot/</url>
+	      <url>http://172.31.40.215:3208/repository/citibank-Snapshot/</url>
 	      </snapshotRepository>
 	    
 	</distributionManagement>
